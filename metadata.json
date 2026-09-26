@@ -1,0 +1,6 @@
+{
+  "name": "StockSense",
+  "description": "Claymorphism Inventory Management System with multi-warehouse tracking, stock movements, and audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
